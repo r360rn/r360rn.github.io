@@ -7,6 +7,6 @@ Kubernetes cluster have two roles:
 # Master node
 
 The main reason for this role is to control everything what happens in cluster.
-Although all requests goes through Master Nodes component called **API server**.
+Also all requests goes through Master Nodes component called **API server**.
 
 # Worker node
